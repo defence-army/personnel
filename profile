@@ -227,8 +227,8 @@
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
       
   <div class="views-field views-field-nothing">        <span class="field-content"><figure>
-  <img typeof="foaf:Image" class="img-responsive" src="https://i.imgur.com/ehp47lF.jpeg" width="800" height="200" alt="Task Group Taji 10 medics Corporal Ashlee Liversedge, left, and Corporal Sarah Nixon in the Middle East. Photo: Leading Seaman Craig Walton" title="Task Group Taji 10 medics Corporal Ashlee Liversedge, left, and Corporal Sarah Nixon in the Middle East. Photo: Leading Seaman Craig Walton">
-  <figcaption>Special Operations Task Group medic Corporal Saylah B, left, and Captain J a member of the Special Air Service Regiment going over documents in Afghanistan.</figcaption>
+  <img typeof="foaf:Image" class="img-responsive" src="https://i.imgur.com/9xVXZ9h.jpg" width="800" height="200" alt="Task Group Taji 10 medics Corporal Ashlee Liversedge, left, and Corporal Sarah Nixon in the Middle East. Photo: Leading Seaman Craig Walton" title="Task Group Taji 10 medics Corporal Ashlee Liversedge, left, and Corporal Sarah Nixon in the Middle East. Photo: Leading Seaman Craig Walton">
+  <figcaption>Special Forces soldier Sergeant Chase B, returning fire from behind a vehicle during a gunfight in Afghanistan.</figcaption>
 </figure>
 
 <div class="margintop article-body marginbottom"><p>Another explosion rocked the small compound, this one resulting in a number of Afghan Counter Terrorism Service (ACTS) soldiers being rushed to a casualty collection point some distance from the heavy fighting taking place all around. </p>
