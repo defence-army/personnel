@@ -155,7 +155,7 @@
   
       
   
-  <div class="pane-content">US commendation for Australian Special Operations soldiers</div>
+  <div class="pane-content">Decorated Australian Special Forces soldier gets another US commendation</div>
 
   
   </div>
